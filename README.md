@@ -11,7 +11,7 @@
 <article>
   
   <figure>
-    <img src="./logopp.png" alt="IwPB" class="center">
+    <img src="./logopp.png" alt="IwPB">
     <figcaption>Gdzie można studiować Informatykę w Procesach Biznesowych?</figcaption>
   </figure>
   
