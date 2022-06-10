@@ -5,4 +5,3 @@ Allow: /IwPB/README.md
 Allow: /IwPB/contact.md
 Allow: /IwPB/downloads.md
 Allow: /IwPB/preferences.md
-Allow: /IwPB/Gdzie%20studiować%20Informatykę%20w%20Procesach%20Biznesowych.svg
