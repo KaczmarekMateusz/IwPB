@@ -1,6 +1,6 @@
 User-agent: *
 Disallow: /IwPB/_config.yml
-Disallow: /IwPB/googlec5b2b2e5c523f63f.html
+Disallow: /IwPB/google376034a796393a1d.html
 Allow: /IwPB/README.md
 Allow: /IwPB/contact.md
 Allow: /IwPB/downloads.md
