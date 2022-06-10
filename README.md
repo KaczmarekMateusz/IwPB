@@ -1,4 +1,4 @@
-<link rel="canonical" href="www.jakub-js.github.io/IwPB/">
+<link rel="canonical" href="https://kaczmarekmateusz.github.io/IwPB/">
 
 <header>
   <h1>Gdzie można studiować Informatykę w Procesach Biznesowych?</h1>
@@ -12,7 +12,7 @@
 <article>
   
   <figure>
-    <img src="./Gdzie%20studiowa%C4%87%20Informatyk%C4%99%20w%20Procesach%20Biznesowych.svg" alt="IwPB">
+    <img src="./logopp.png" alt="IwPB">
     <figcaption>Gdzie można studiować Informatykę w Procesach Biznesowych?</figcaption>
   </figure>
   
