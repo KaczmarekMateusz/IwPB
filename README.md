@@ -2,7 +2,6 @@
 
 <header>
   <h1>Gdzie można studiować Informatykę w Procesach Biznesowych?</h1>
-  <h2>IwPB</h2>
 </header>
 
 [Charakterystyka specjalności](./preferences.md)
@@ -12,7 +11,7 @@
 <article>
   
   <figure>
-    <img src="./logopp.png" alt="IwPB">
+    <img src="./logopp.png" alt="IwPB" class="center">
     <figcaption>Gdzie można studiować Informatykę w Procesach Biznesowych?</figcaption>
   </figure>
   
